@@ -1,0 +1,22 @@
+{
+  "name": "colorify_package_demo_with_js",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node ./index.js",
+    "prepare": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonurathour81/colorifyPackage.git"
+  },
+  "author": "sonu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonurathour81/colorifyPackage/issues"
+  },
+  "homepage": "https://github.com/sonurathour81/colorifyPackage#readme"
+}
